@@ -1,0 +1,7 @@
+{
+    "name": "x264-win64",
+    "version": "0.155.2901",
+    "description": "npm wrapper for x264 (win64)",
+    "os": ["win32"],
+    "cpu": ["x64"]
+}
